@@ -26,3 +26,23 @@ Simule um sistema de atendimento bancário.
 | enqueue | O(1) |
 | dequeue | O(1) |
 | peek | O(1) |
+
+------------------------
+## Exercício 2 — Fila com Prioridade Simples
+
+Implemente uma fila onde:
+
+- Idosos entram antes
+- Demais entram ao final
+
+### Discussão
+
+- Você está mantendo ordenação?
+- Está inserindo no meio?
+
+### Complexidade Esperada
+
+| Operação | Complexidade |
+| --- | --- |
+| enqueue | O(n) |
+| dequeue | O(1) |
