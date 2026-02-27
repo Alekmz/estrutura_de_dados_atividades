@@ -46,3 +46,19 @@ Implemente uma fila onde:
 | --- | --- |
 | enqueue | O(n) |
 | dequeue | O(1) |
+
+
+------------------------
+## Exercício 2 — Fila com Prioridade Simples
+
+Implemente uma fila onde:
+
+- Idosos entram antes
+- Demais entram ao final
+
+### Complexidade Esperada
+
+| Operação | Complexidade |
+| --- | --- |
+| enqueue | O(1) |
+| dequeue | O(1) |
